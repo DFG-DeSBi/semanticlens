@@ -27,6 +27,10 @@
 </div>
 
 
+> **DeSBi Release:** This is a curated v1.0.0 release (desbi-2026.09.1) 
+> by the DFG Research Unit KI-FOR 5363 (DeSBi). 
+> See [DESBI_RELEASE.md](./DESBI_RELEASE.md) for provenance information and [CITATION.cff](./CITATION.cff) for citation metadata.
+
 **SemanticLens** is a universal framework for explaining and validating large vision models. While deep learning models are powerful, their internal workings are often a "black box," making them difficult to trust and debug. SemanticLens addresses this by mapping the internal components of a model (like neurons or filters) into the rich, semantic space of a foundation model (e.g., CLIP or SigLIP).
 
 This allows you to "translate" what the model is doing into a human-understandable format, enabling you to search, analyze, and audit its internal representations.
